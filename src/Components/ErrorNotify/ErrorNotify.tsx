@@ -1,4 +1,4 @@
-import "./ErrorNotify.css";
+import "./ErrorNotify.scss";
 
 interface ErrorNotifyProps {
   message: string;

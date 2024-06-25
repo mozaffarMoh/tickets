@@ -1,6 +1,6 @@
-import "./Loading.css";
+import "./Loading.scss";
 
-const Loading: React.FC = () => {
+const Loading = () => {
   return (
     <div className="loading-container flexCenter">
       <div className="loader"></div>

@@ -1,1 +1,1 @@
-export { default as BikesStolenInMunich } from './BikesStolenInMunich/BikesStolenInMunich';
+export { default as Header } from './Header/Header';
